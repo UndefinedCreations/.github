@@ -1,7 +1,7 @@
 
 # UndefinedCreations
 
-Welcome to UndefinedCreations! We create Spigot plugins and APIs for Minecraft servers. Our goal is to improve developers lives and make _awesome_ plugins.
+Welcome to UndefinedCreations! We create Spigot plugins and APIs for Minecraft servers. Our goal is to improve developers lives and make useful plugins.
 
 ## APIs
 - **Stellar**: Powerful Command Framework.
