@@ -18,6 +18,6 @@ Welcome to UndefinedCreations! We create Spigot plugins and APIs for Minecraft s
 - **UndefinedRemapper**: Remapper for Spigot Plugins
 - **UndefinedRunServer**: Run Server in Project
 
-Join our [Discord](https://discord.gg/undefinedcreations) and check out our [docs](https://docs.undefinedcreation.com)!
+Join our [Discord](https://discord.undefinedcreations.com/) and check out our [docs](https://docs.undefinedcreations.com)!
 
 ❤️ from the Undefined Team.
