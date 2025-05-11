@@ -7,7 +7,6 @@ Welcome to UndefinedCreations! We create Spigot plugins and APIs for Minecraft s
 - **Stellar**: Powerful Command Framework.
 - **Cassini** [WIP]: Menu Framework.
 - **Akari** [WIP]: Camera API
-- **UndefinedAPI**: General Spigot API
 
 ## Plugins
 - **Undefined Replay**: Replay System
@@ -15,8 +14,8 @@ Welcome to UndefinedCreations! We create Spigot plugins and APIs for Minecraft s
 - **Undefined Toggles**: Adding more Configurable Options
 
 ## Gradle Plugins
-- **UndefinedRemapper**: Remapper for Spigot Plugins
-- **UndefinedRunServer**: Run Server in Project
+- **Echo**: Remapper for Spigot Plugins
+- **Nova**: Run Server in Project
 
 Join our [Discord](https://discord.undefinedcreations.com/) and check out our [docs](https://docs.undefinedcreations.com)!
 
