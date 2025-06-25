@@ -4,18 +4,16 @@
 Welcome to UndefinedCreations! We create Spigot plugins and APIs for Minecraft servers. Our goal is to improve developers lives and make useful plugins.
 
 ## APIs
-- **Stellar**: Powerful Command Framework.
-- **Cassini** [WIP]: Menu Framework.
-- **Akari** [WIP]: Camera API
+- [**Stellar**](https://docs.undefinedcreations.com/stellar/): Powerful Command Framework.
+- [**Cassini**](https://github.com/UndefinedCreations/Cassini) [WIP]: Menu Framework.
+- [**Akari**](https://github.com/UndefinedCreations/Akari) [WIP]: Camera API
 
 ## Plugins
-- **Undefined Replay**: Replay System
-- **Undefined Combat**: Combat System
-- **Undefined Toggles**: Adding more Configurable Options
+- **Undefined Replay** [WIP]: Replay System
 
 ## Gradle Plugins
-- **Echo**: Remapper for Spigot Plugins
-- **Nova**: Run Server in Project
+- [**Echo**](https://docs.undefinedcreations.com/gradle-plugins/echo/what-is-echo): Remapper for Spigot Plugins
+- [**Nova**](https://docs.undefinedcreations.com/gradle-plugins/nova/what-is-nova): Run Server in Project
 
 Join our [Discord](https://discord.undefinedcreations.com/) and check out our [docs](https://docs.undefinedcreations.com)!
 
