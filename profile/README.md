@@ -5,6 +5,7 @@ Welcome to UndefinedCreations! We create Spigot plugins and APIs for Minecraft s
 
 ## APIs
 - [**Stellar**](https://docs.undefinedcreations.com/stellar/): Powerful Command Framework.
+- [**Lynx**](https://github.com/UndefinedCreations/Lynx) [WIP]: General Minecraft Framework
 - [**Cassini**](https://github.com/UndefinedCreations/Cassini) [WIP]: Menu Framework.
 - [**Akari**](https://github.com/UndefinedCreations/Akari) [WIP]: Camera API
 
